@@ -1,7 +1,7 @@
 # Investigating Heart Disease Through Data Exploration
 
 
-#❤️ Heart Disease Dataset Feature Definitions:
+❤️ Heart Disease Dataset Feature Definitions:
 | **Feature**                                        | **Description**                                                                                                                  | **Type / Unit**     |
 | -------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------- | ------------------- |
 | **age**                                            | Age of the individual                                                                                                            | *Years (numeric)*   |
